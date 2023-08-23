@@ -1,2 +1,2 @@
 # Calculator-Fivem
-Finnaly Fixed Bug (Esc To Close) 
+Fixed Major Bug's
